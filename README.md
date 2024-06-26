@@ -1,4 +1,4 @@
-# Sample JavaFX Dashboards
+# Sample JavaFX Dashboard
 ![](sc2.PNG) 
 ![](sc1.png) 
 
